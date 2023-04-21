@@ -1,0 +1,38 @@
+html{
+    background-color: lightblue;
+    
+}
+
+.title{
+    text-align: center;
+    color: brown;
+    background-color: blueviolet;
+    margin: 20px 0px 20px 0px;
+    text-decoration: underline;
+}
+
+img{
+    width: 20%;
+    height: 20%;
+    border-radius: 25%;
+    opacity: 50%;
+}
+
+.parrafo{
+    font-family: 'Roboto', sans-serif;
+    font-size: large;
+}
+
+table{
+    border-spacing: 10px;
+    background-color: gainsboro;
+    border-color: black;
+}
+th{
+    background-color: violet;
+    font-size: 20px;
+}
+
+td{
+    background-color: khaki;
+}
